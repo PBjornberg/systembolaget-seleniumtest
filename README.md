@@ -1,5 +1,5 @@
 Selenium test targeting the site www.systembolaget.se
-Netbeans project files included.
+(Netbeans project files included)
 
 
 The selenium test automates the following manual steps:
